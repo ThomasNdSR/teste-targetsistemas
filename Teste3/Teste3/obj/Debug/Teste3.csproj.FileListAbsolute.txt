@@ -1,0 +1,11 @@
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\bin\Debug\Teste3.exe.config
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\bin\Debug\Teste3.exe
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\bin\Debug\Teste3.pdb
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.csproj.AssemblyReference.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.csproj.CoreCompileInputs.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.exe
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.pdb
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste3\Teste3\obj\Debug\Teste3.csproj.CopyComplete

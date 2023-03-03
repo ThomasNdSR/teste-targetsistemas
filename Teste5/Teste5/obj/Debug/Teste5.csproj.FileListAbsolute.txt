@@ -1,0 +1,8 @@
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\bin\Debug\Teste5.exe.config
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\bin\Debug\Teste5.exe
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\bin\Debug\Teste5.pdb
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\obj\Debug\Teste5.csproj.AssemblyReference.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\obj\Debug\Teste5.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\obj\Debug\Teste5.csproj.CoreCompileInputs.cache
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\obj\Debug\Teste5.exe
+C:\Users\thoma_nqpzoxy\OneDrive\Documentos\workspace\teste-targetsistemas\Teste5\Teste5\obj\Debug\Teste5.pdb
